@@ -1,5 +1,16 @@
+//import model.*;
+//import repo.*;
+//import ctrl.*;
+//import UI;
+
 public class Main {
-    public static void main(String arg[]) {
-        System.out.println("hello");
+
+    public static void run(String arg[])
+    {
+        while(true)
+        {
+         //callTests
+         //printMenu
+        }
     }
 }
