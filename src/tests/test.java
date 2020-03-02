@@ -2,7 +2,7 @@ package tests;
 //import model.*;
 //import repo.*;
 //import ctrl.*;
-//import UI.*;
+//import userInterface.UI.*;
 public class test {
 
 }
